@@ -1,0 +1,30 @@
+/*
+   Template Name: MyFolio
+   Author: Tanweer Bin Yamini
+   Template Designer:
+   Author URI:
+   Version:1.0.0
+
+
+   Table of Content
+   ==============================
+   1) Navbar
+*/
+
+/* Common Css Start */
+h1,h2,h3,h4,h5,h6,
+p,
+small,
+ul,
+ol{
+   margin: 0;
+   padding: 0;
+}
+ul,ol{
+   list-style-type: none;
+}
+a,
+a:hover{
+   text-decoration: none;
+}
+/* //Common Css End */
